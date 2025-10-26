@@ -1,4 +1,4 @@
----
+
 🌸 Navya's Cute Calculator 💖
 
 A fun and visually beautiful web calculator made with HTML, CSS, and JavaScript. This calculator features:
@@ -92,6 +92,9 @@ Click here to see the live demo: https://vudayagirinavya.github.io/Calculator-pr
 
 
 ---
+
+Author:
+VUDAYAGIRI NAVYA
 
 🔗 GitHub Repository
 
