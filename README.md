@@ -1,3 +1,4 @@
+---
 🌸 Navya's Cute Calculator 💖
 
 A fun and visually beautiful web calculator made with HTML, CSS, and JavaScript. This calculator features:
@@ -87,14 +88,14 @@ cd Calculator-project
 
 🌐 Live Demo
 
-Click here to see the live demo: Click Here to See Live Demo
+Click here to see the live demo: https://vudayagirinavya.github.io/Calculator-project/
 
 
 ---
 
 🔗 GitHub Repository
 
-Check out the full project here: GitHub Repository
+Check out the full project here: 
 
-
+https://github.com/VudayagiriNavya/Calculator-project.git
 ---
