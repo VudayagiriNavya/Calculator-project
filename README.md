@@ -1,5 +1,5 @@
 
-🌸 Navya's Cute Calculator 💖
+# 🌸 Navya's Cute Calculator 💖
 
 A fun and visually beautiful web calculator made with HTML, CSS, and JavaScript. This calculator features:
 
@@ -17,7 +17,7 @@ Fully functional basic arithmetic operations (+, −, ×, ÷, %, decimal)
 
 ---
 
-🔹 Features
+##🔹 Features
 
 1. Responsive layout for all screen sizes
 
@@ -33,17 +33,17 @@ Fully functional basic arithmetic operations (+, −, ×, ÷, %, decimal)
 
 5. Fully functional calculator including:
 
-Numbers 0–9
+    Numbers 0–9
 
-Decimal point
+    Decimal point
 
-Clear (C) button
+    Clear (C) button
 
-Delete (⌫) button
+    Delete (⌫) button
 
-Basic arithmetic operations (+, −, ×, ÷, %)
+    Basic arithmetic operations (+, −, ×, ÷, %)
 
-Equals (=) button to calculate results
+    Equals (=) button to calculate results
 
 
 
@@ -51,7 +51,7 @@ Equals (=) button to calculate results
 
 ---
 
-💻 Technologies Used
+## 💻 Technologies Used
 
 HTML – Structure of the calculator
 
@@ -63,7 +63,7 @@ JavaScript – Calculator functionality and floating hearts
 
 ---
 
-📂 How to Clone and Run
+## 📂 How to Clone and Run
 
 1. Clone the repository:
 
@@ -86,14 +86,14 @@ cd Calculator-project
 
 ---
 
-🌐 Live Demo
+## 🌐 Live Demo
 
 Click here to see the live demo: https://vudayagirinavya.github.io/Calculator-project/
 
 
 ---
 
-Author:
+## Author:
 VUDAYAGIRI NAVYA
 
 🔗 GitHub Repository
